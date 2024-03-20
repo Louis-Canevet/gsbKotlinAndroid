@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApplication" parent="android:Theme.Material.Light">
+        <!-- Autres attributs de style -->
+
+        <!-- Définition du fond -->
+        <item name="android:windowBackground">@color/creme</item>
+    </style>
+</resources>
