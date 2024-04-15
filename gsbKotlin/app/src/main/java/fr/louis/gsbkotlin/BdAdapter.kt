@@ -13,7 +13,7 @@ import java.util.*
 class BdAdapter(context: Context) : SQLiteOpenHelper(context, DATABASE_NAME, null, DATABASE_VERSION) {
 
     companion object {
-        private const val DATABASE_VERSION = 4
+        private const val DATABASE_VERSION = 7
         private const val DATABASE_NAME = "GsbBd"
 
         // Noms de table et de colonnes pour la table des échantillons
